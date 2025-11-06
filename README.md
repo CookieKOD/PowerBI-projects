@@ -1,4 +1,4 @@
-Rapport Mensuel : Analyse des Ventes par Pays (2020–2022) 
+# Rapport Mensuel : Analyse des Ventes par Pays (2020–2022) 
 
 Ce projet Power BI présente une analyse des ventes mensuelles dans trois pays d’Afrique de l’Ouest : le Sénégal, le Mali et le Nigeria, sur la période allant de janvier 2020 à décembre 2022. 
 Source des données 
@@ -12,10 +12,10 @@ Les données proviennent du fichier Excel Etudes des Produits 012823.xlsx, conte
 
 Le jeu de données couvre 36 observations par pays (12 mois × 3 ans), soit 108 lignes au total. 
  
-## 🎯 Objectif
+##  Objectif
 Transformer des données brutes en indicateurs clés (KPI) pour faciliter la prise de décision : chiffre d’affaires, volume de ventes, tendances mensuelles, performance par région/produit.
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 - Power BI Desktop
 - Power Query (nettoyage et transformation)
 - DAX (mesures personnalisées)
